@@ -7,8 +7,8 @@ import numpy as np
 
 uploaded = st.file_uploader("Add Image", type=["jpg", "jpeg", "png"])
 
-model = keras.models.load_model("best_model.h5")
-class_names = joblib.load("class_names.pkl")
+model = keras.models.load_model("saved models/best_model.h5")
+class_names = joblib.load("saved models/class_names.pkl")
 
 def preprosses(image):
     img = image.resize((128,128))
