@@ -180,4 +180,3 @@ This project helped me gain practical experience in:
 **Trailokya Dhotre**
 
 - GitHub: https://github.com/trailokya-world
-- LinkedIn: *(Add your LinkedIn profile)*
