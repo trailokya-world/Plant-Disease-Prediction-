@@ -173,7 +173,7 @@ This project helped me gain practical experience in:
 ---
 
 ## Screenshots
-![Plant Disease Prediction]("screenshots/image.png")
+![Plant Disease Prediction]("screenshots\image.png")
 
 ## 👨‍💻 Author
 
